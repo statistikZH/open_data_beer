@@ -3,7 +3,8 @@ Dieses Repo dient der Planung des Open Data Beer Events.
 
 ## Das Open Data Beer
 Grundsätzliche Informationen zum Event und bisherigen Veranstaltungen finden sich auf der [Hompage](https://opendatabeer.ch/).
-Allgemein gilt: *Das Open Data Beer ist ein nicht-kommerzieller Anlass und steht ganz im Zeichen des Austausches.* Es findet ... statt und die Mitglieder wechseln sich in der Organisation ab.  
+
+Allgemein gilt: _Das Open Data Beer ist ein nicht-kommerzieller Anlass und steht ganz im Zeichen des Austausches._ Es findet ... pro Jahr statt und die Mitglieder wechseln sich in der Organisation ab.  
 
 ## Das Repo
 Dieses Repo dient der Vereinfachung der Planung des Open Data Beers, indem es Erfahrungen und Tipps sammelt. 
