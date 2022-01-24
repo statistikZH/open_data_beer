@@ -6,7 +6,7 @@ Eine Liste bisheriger Austragungorte befindet sich unter *Locations*.
 Voraussetzungen:
 - Kapazität: normalerweise rechnet man mit 50-100 Personen
 - Dauer: Event dauert ca. 60 Minuten, danach noch Bier und Networking
-- Corona-Konformität: evt. Angebot für hybride Events
+- Corona-Konformität: evt. nach Angebot für hybride Events fragen
 # 2. Präsentationen/Gäste
 Es gibt jeweils zwei Input Referate in der Länge von 5-10 Minuten mit anschliessender Diskussion. 
 Normalerweise repräsentiert jeweils ein Referent:in die ODG-produzierende und ein Referent:in die OGD-nutzende Perspektive.
