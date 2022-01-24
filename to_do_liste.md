@@ -2,7 +2,7 @@
 Diese Auflistung nennt die wichtigsten Planungsschritte in zeitlich korrekter Reihenfolge. Es empfiehlt sich frühzeitig (4 Monate vor Event) mit der Planung zu beginnen. 
 
 # 1. Location und Catering
-Eine Liste bisheriger Austragungorte befindet sich unter *Locations*.
+Eine Liste bisheriger Austragungorte befindet sich unter [*bisherige Events*](bisherige_events.csv).
 Voraussetzungen:
 - Kapazität: normalerweise rechnet man mit 50-100 Personen
 - Dauer: Event dauert ca. 60 Minuten, danach noch Bier und Networking
@@ -11,7 +11,7 @@ Voraussetzungen:
 Es gibt jeweils zwei Input Referate in der Länge von 5-10 Minuten mit anschliessender Diskussion. 
 
 Normalerweise vertritt jeweils ein/e Referent:in die ODG-produzierende und ein/e Referent:in die OGD-nutzende Perspektive.
-Eine Übersicht zu den bisherigen Referenten bietet die [Homepage](https://opendatabeer.ch/impressionen/) oder die Liste *Locations*.
+Eine Übersicht zu den bisherigen Referenten bietet die [Homepage](https://opendatabeer.ch/impressionen/) oder die Liste [*bisherige Events*](bisherige_events.csv).
 # 3. hybride Events
 
 # 4. Tickets
