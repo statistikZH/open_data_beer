@@ -11,7 +11,7 @@ Voraussetzungen:
 Es gibt jeweils zwei Input Referate in der Länge von 5-10 Minuten mit anschliessender Diskussion. 
 
 Normalerweise vertritt jeweils ein/e Referent:in die ODG-produzierende und ein/e Referent:in die OGD-nutzende Perspektive.
-Eine Übersicht zu den bisherigen Referenten bietet die [Homepage](https://opendatabeer.ch/impressionen/).
+Eine Übersicht zu den bisherigen Referenten bietet die [Homepage](https://opendatabeer.ch/impressionen/) oder die Liste *Locations*.
 # 3. hybride Events
 
 # 4. Tickets
