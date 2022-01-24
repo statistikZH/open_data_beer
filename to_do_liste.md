@@ -1,7 +1,4 @@
----
-title: "to_do_liste"
-output: html_document
----
+# To Do Liste
 Diese Auflistung nennt die wichtigsten Planungsschritte in zeitlich korrekter Reihenfolge. Es empfiehlt sich frühzeitig (4 Monate vor Event) mit der Planung zu beginnen. 
 
 # 1. Location und Catering
