@@ -9,14 +9,21 @@ Voraussetzungen:
 - Corona-Konformität: evt. nach Angebot für hybride Events fragen
 # 2. Präsentationen/Gäste
 Es gibt jeweils zwei Input Referate in der Länge von 5-10 Minuten mit anschliessender Diskussion. 
-Normalerweise repräsentiert jeweils ein Referent:in die ODG-produzierende und ein Referent:in die OGD-nutzende Perspektive.
+
+Normalerweise vertritt jeweils ein/e Referent:in die ODG-produzierende und ein/e Referent:in die OGD-nutzende Perspektive.
 Eine Übersicht zu den bisherigen Referenten bietet die [Homepage](https://opendatabeer.ch/impressionen/).
 # 3. hybride Events
 
 # 4. Tickets
 Der Ticketverkauft erfolgt über den Eventbride Account der Open Data Fachstelle Basel. Die Tickets sind gratis, aber durch die Anmeldung erhält man eine Übersicht über die Anzahl Teilnehmer. 
+
+Zugang: 
 # 5. Ankündigung und Werbung
 Open Data Beer publiziert jeweils Informationen auf der Homepage und auf ihrem Twitteraccount. 
+
+Zugang: 
 # 6. Rückblick 
 Dieser Schritt geschieht nach dem Event. Für die Homepage wird eine kleine Zusammenfassung geschrieben, sowie die Slides der Referenten:innen hochgeladen. 
+
+Zugang:
 
