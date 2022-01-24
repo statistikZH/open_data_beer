@@ -19,7 +19,7 @@ Der Ticketverkauft erfolgt über den Eventbride Account der Open Data Fachstelle
 
 Zugang: 
 # 5. Ankündigung und Werbung
-Open Data Beer publiziert jeweils Informationen auf der Homepage und auf ihrem Twitteraccount. 
+Open Data Beer publiziert jeweils Informationen auf der Homepage (https://opendatabeer.ch) und auf ihrem Twitteraccount (opendatabeerCH). 
 
 Zugang: 
 # 6. Rückblick 
