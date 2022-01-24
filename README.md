@@ -6,7 +6,7 @@ Grundsätzliche Informationen zum Event und bisherigen Veranstaltungen finden si
 
 Weitergehende Aktivitäten finden sich auch auf der Twitter Seite: @opendatabeerCH. 
 
-Allgemein gilt: _Das Open Data Beer ist ein nicht-kommerzieller Anlass und steht ganz im Zeichen des Austausches._ Es findet ... pro Jahr statt und die Mitglieder wechseln sich in der Organisation ab.  
+Allgemein gilt: _Das Open Data Beer ist ein nicht-kommerzieller Anlass und steht ganz im Zeichen des Austausches._ Es findet 3 bis 4 Mal pro Jahr statt und die Mitglieder wechseln sich in der Organisation ab.  
 
 ## Das Repo
 Dieses Repo dient der Vereinfachung der Planung des Open Data Beers, indem es Erfahrungen und Tipps sammelt. 
