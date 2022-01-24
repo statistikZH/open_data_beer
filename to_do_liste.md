@@ -13,7 +13,7 @@ Es gibt jeweils zwei Input Referate in der Länge von 5-10 Minuten mit anschlies
 Normalerweise vertritt jeweils ein/e Referent:in die ODG-produzierende und ein/e Referent:in die OGD-nutzende Perspektive.
 Eine Übersicht zu den bisherigen Referenten bietet die [Homepage](https://opendatabeer.ch/impressionen/) oder die Liste [*bisherige Events*](bisherige_events.csv).
 # 3. hybride Events
-
+In der Liste [*bisherige Events*](bisherige_events.csv) sind die wenigen Events aufgelistet, die komplett Online stattfanden. Dabei wurde Zoom genutzt. 
 # 4. Tickets
 Der Ticketverkauft erfolgt über den Eventbride Account der Open Data Fachstelle Basel. Die Tickets sind gratis, aber durch die Anmeldung erhält man eine Übersicht über die Anzahl Teilnehmer. 
 
