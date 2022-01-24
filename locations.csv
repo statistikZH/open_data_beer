@@ -1,2 +1,7 @@
-ort,datum,location,bewertung,catering_inkl, catering
-Zuerich, 05.04.2022, Viadukt Bogen D, ,ja,
+ort,datum,organisator,location,bewertung,catering_inkl, catering, referent1, referent2
+Zuerich, 18.01.2018, Open Data Zürich, Karl der Grosse,,,,,
+Zuerich,12.04.2018,Open ZH, Ahnengalerie des Kantons Zürich, ,,,Matthias Mazenauer - Metadaten, Water fountains
+Basel,20.06.2018, Staatskanzlei Basel Stadt,,,,,Jonas Bieri - Linked Open Data, App Lab Basel
+Bern, 15.08.2018,SBB, SBB,,,,Christian Trachsel - Open Data bei der SBB,
+
+Zuerich, 05.04.2022, Viadukt Bogen D, ,ja,,
