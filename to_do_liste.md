@@ -8,7 +8,8 @@ Voraussetzungen:
 - Dauer: Event dauert ca. 60 Minuten, danach noch Bier und Networking
 - Corona-Konformität: evt. nach Angebot für hybride Events fragen
 # 2. Präsentationen/Gäste
-Es gibt jeweils zwei Input Referate in der Länge von 5-10 Minuten mit anschliessender Diskussion. 
+Es gibt jeweils zwei Input Referate in der Länge von 5-10 Minuten mit anschliessender Diskussion.
+[Hier]() findet sich die PP Vorlage. 
 
 Normalerweise vertritt jeweils ein/e Referent:in die ODG-produzierende und ein/e Referent:in die OGD-nutzende Perspektive.
 Eine Übersicht zu den bisherigen Referenten bietet die [Homepage](https://opendatabeer.ch/impressionen/) oder die Liste [*bisherige Events*](bisherige_events.csv).
