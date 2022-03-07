@@ -15,4 +15,5 @@ Kernstück ist die To Do Liste, welche einen Überblick über die wichtigsten Sc
 ## Kontakt 
 
 Dieses Repo: datashop@statistik.ji.zh.ch
+
 Open Data Beer: joinus@opendatabeer.ch
