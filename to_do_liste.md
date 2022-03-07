@@ -17,7 +17,7 @@ Eine Übersicht zu den bisherigen Referenten bietet die [Homepage](https://opend
 # 3. hybride Events
 In der Liste [*bisherige Events*](bisherige_events.csv) sind die wenigen Events aufgelistet, die komplett Online stattfanden. Dabei wurde Zoom genutzt. Es hat sich bewährt Fragen über den Chat aufzunehmen.
 # 4. Tickets
-Der Ticketverkauft erfolgt über den Eventbride Account der Open Data Fachstelle Basel. Die Tickets sind gratis, aber durch die Anmeldung erhält man eine Übersicht über die Anzahl Teilnehmer. 
+Der Ticketverkauft erfolgt über den [Eventbride Account](https://www.eventbrite.de/o/open-data-beer-15836176658) der Open Data Fachstelle Basel. Die Tickets sind gratis, aber durch die Anmeldung erhält man eine Übersicht über die Anzahl Teilnehmer. 
 
 Zugang: Sobald das Datum, die Vorträge stehen, kann man sich auf der Open Data Beer EMail melden und der Event wird erstellt.
 
