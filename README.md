@@ -13,3 +13,6 @@ Dieses Repo dient der Vereinfachung der Planung des Open Data Beers, indem es Er
 Kernstück ist die To Do Liste, welche einen Überblick über die wichtigsten Schritte der Eventplanung bietet. 
 
 ## Kontakt 
+
+Dieses Repo: datashop@statistik.ji.zh.ch
+Open Data Beer: joinus@opendatabeer.ch
